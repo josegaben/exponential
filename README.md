@@ -36,11 +36,16 @@ I'm 26 and based in Madrid. I studied Business Administration at IEB (Instituto 
 
 ## How I Work
 
-- **Gets me pumped:** shipping something real people can use the same week; problems where trust, not technology, is the bottleneck.
-- **Disappoints me:** claims nobody can back up; polishing decks instead of shipping.
-- **Strengths:** going from problem to working product fast with AI coding agents; bridging business and engineering; writing things down (specs, decision records, a single fact sheet for every claim I make about a product).
-- **Improvement points:** I like to run several projects at once; I'm learning to cut scope earlier and finish one thing before starting the next.
-- **Known behaviours / comms style:** written, direct and async-first; I say what's done, what isn't, and what I haven't checked.
+- **Gets me pumped:** a hard problem I can't stop thinking about; shipping something real people can use the same week.
+- **Disappoints me:** sloppy details, claims nobody can back up, and waiting around when something could already be moving.
+- **Strengths:**
+  - **Obsessive until it's solved.** Once a problem gets in my head, I keep at it until it works.
+  - **Ultra attention to detail.** I check the copy, the edge cases and the numbers, not just the happy path.
+  - **Focus.** I go deep on one thing and shut out the noise.
+  - **Proactive.** I don't wait for permission: if something needs doing, I do it and own the result.
+  - Going from problem to working product fast with AI coding agents, and bridging business and engineering.
+- **Improvement points:** the flip side of the obsession: I can go too deep on a single problem, so I'm learning to timebox and to recognise when good enough is enough.
+- **Known behaviours / comms style:** direct, written and async-first; I say what's done, what isn't, and what I haven't checked.
 
 ---
 
