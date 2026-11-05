@@ -9,11 +9,10 @@
 
 ## About Jose Luis
 
-I'm 26 and based in Madrid. I studied Business Administration at IEB (Instituto de Estudios Bursátiles) in Madrid, where I finished with the second-best academic record in my degree and one of the best across all classes at the school, together with a Master in the Stock Exchange and Financial Markets (IEB / LSE). Today I'm a Senior Associate at PwC Strategy & Operations. Before PwC I was a Product Manager at Clibrain; since 2024 I've also worked on business development at Yamato Digital. On the side, I launched a company that reached €20K ARR in under a month. What excites me is building: taking a problem people complain about every day and turning it into something they can use this week.
+I'm 26 and based in Madrid. I studied Business Administration at IEB (Instituto de Estudios Bursátiles) in Madrid, where I finished with the second-best academic record in my degree and one of the best across all classes at the school, together with a Master in the Stock Exchange and Financial Markets (IEB / LSE). Today I'm a Senior Associate at PwC Strategy & Operations. Before PwC I was a Product Manager at Clibrain; since 2024 I've also worked on business development at Yamato Digital. What excites me is building: taking a problem people complain about every day and turning it into something they can use this week.
 
 ### Main Achievements
 
-- **A side company to €20K ARR in under a month.** I launched it on the side (name kept private).
 - **Built and shipped ZAX on my own time.** A live rental product (web app, sign-up agent, email alerts, tenant agent, owner pages) built from April 2026 with AI coding agents. As of 1 Nov 2026, before any launch or ads: 5 owners listed a flat, 11+ people were actively searching, and 2 flats were rented to people who found them on ZAX, each in under 48 hours. No revenue yet. <https://zaxworld.com>
 - **Built and shipped DEAL MATCH solo.** A free funding search engine, live since 5 Nov 2026. That day the catalog had 136 programs from 45 active sources, 42 of them open for applications. It also works as an MCP connector for Claude and ChatGPT. No users yet. <https://dealmatch.es>
 - **Yamato Digital.** Contributed to business development while the company grew from 0 to €200,000 in revenue in its first year.
@@ -31,7 +30,6 @@ I'm 26 and based in Madrid. I studied Business Administration at IEB (Instituto 
 - **Senior Associate / PwC Strategy & Operations** – *Apr 2024 – present.* Strategy, operations and go-to-market for startups and SMEs: 70+ startups, helped them raise €2M, and one of them doubled revenue from €25M to €50M.
 - **Business Development / Yamato Digital** – *Jan 2024 – present.* Contributed to business development while the company grew from 0 to €200,000 in revenue in its first year.
 - **Product Manager / Clibrain** – *Apr 2023 – Apr 2024.* Product at a generative AI platform for companies.
-- **Founder / side company (name kept private)** – Reached €20K ARR in under a month.
 - **Education** – Business Administration, IEB (Instituto de Estudios Bursátiles), 2018–2022: second-best record in my degree · Master in the Stock Exchange and Financial Markets (IEB / LSE), 2022.
 
 ---
